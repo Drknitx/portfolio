@@ -1,0 +1,132 @@
+body{
+ background-color: #FFCEE8;  
+ 
+}
+
+
+.row{   
+
+    background-color: #ceffe5;
+    color: #b290a2;
+    font-size:20px;
+    display:flex;
+    justify-content: center;
+}
+
+
+/*
+#nav{                           
+      color:#ff8000;
+      display: flex;
+      justify-content: flex-end; 
+      list-style-type: none; 
+
+     
+}
+
+#nav li {
+  display: inline;
+  padding-right: 30px;
+}
+*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: 	#b4dcff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: grey;
+}
+
+.active {
+    background-color: #4CAF50;
+} 
+
+
+
+.headshot{
+    width:13%;
+    padding:15px;
+   
+}
+.mid{
+    background-color:#e8ffce;
+    color: black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:50px;
+}
+
+.aboutme{
+    border:1px solid black;   
+}
+
+
+
+
+/*.row{   
+
+    background-color: purple;
+    color:white;
+    font-size:20px;
+    display:flex;
+    justify-content: start;
+}
+*/
+
+
+
+
+
+
+
+
+/*.nav-list{
+    list-style-type:none;
+    text-align: center;
+    
+    
+    
+}
+
+*/
+
+/*ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: purple;
+}
+
+li {
+    float: right;
+    background-color: purple;
+}
+
+li a {
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+*/
